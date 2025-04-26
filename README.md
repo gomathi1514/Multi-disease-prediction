@@ -13,11 +13,11 @@ Frontend: HTML5, CSS3 (TailwindCSS), JavaScript
 Design: TailwindCSS, Google Fonts (Inter)
 
 🧠 How It Works
-User enters their Age, Symptoms (comma-separated), and Gender.
+1.User enters their Age, Symptoms (comma-separated), and Gender.
 On submitting the form:
-A random disease is predicted from a predefined list.
-A random confidence percentage (between 60%-99%) is assigned.
-Results are displayed dynamically on the webpage.
+2.A random disease is predicted from a predefined list.
+3.A random confidence percentage (between 60%-99%) is assigned.
+4.Results are displayed dynamically on the webpage.
 
 🔮 Future Plans
 🔗 Connect to Real Machine Learning Model:
